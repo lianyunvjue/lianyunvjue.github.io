@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: heishaluo@163.com
 description: "记录自己的成长"
 keyword: ""
-url: "http://zhangchaonan.com"              # your host, for absolute URL
+url: "http://nickysuper.com"              # your host, for absolute URL "#" http://nickysuper.com
 baseurl: " "         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -79,11 +79,11 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 
-# Friends
+# Friends http://nickysuper.com
 friends: [
     {
-        title: "Nini Blog",
-        href: "http://zhangchaonan.com"
+        title: "Nick's Blog",
+        href: "#"
     },{
         title: "Foo",
         href: "#"
