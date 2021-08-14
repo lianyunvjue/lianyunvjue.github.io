@@ -1,6 +1,6 @@
 # Site settings
-title: Niki's Blog
-SEOTitle: Niki's Blog
+title: Nicky's Blog
+SEOTitle: Nicky's Blog
 header-img: img/home-bg.jpg
 email: heishaluo@163.com
 description: "记录自己的成长"
@@ -12,11 +12,11 @@ baseurl: " "         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     Niki
-zhihu_username:     Niki
-github_username:    Niki
-#twitter_username:  Niki
-facebook_username:  Niki
+weibo_username:     Nicky
+zhihu_username:     Nicky
+github_username:    Nicky
+#twitter_username:  Nicky
+facebook_username:  Nicky
 
 
 
@@ -47,10 +47,10 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: niki
+disqus_username: Nicky
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: Nicky
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 

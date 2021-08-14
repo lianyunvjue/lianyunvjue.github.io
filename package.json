@@ -1,9 +1,9 @@
 {
-    "name": "niki-blog",
-    "title": "Niki's Blog",
+    "name": "Nicky-blog",
+    "title": "Nicky's Blog",
     "version": "1.0.0",
     "homepage": "http://lianyunvjue.github.io",
-    "author": "Hux",
+    "author": "Nicky",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
