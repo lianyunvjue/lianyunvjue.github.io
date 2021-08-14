@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: heishaluo@163.com
 description: "记录自己的成长"
 keyword: ""
-url: "http://nickysuper.com"              # your host, for absolute URL "#" http://nickysuper.com
+url: " "              # your host, for absolute URL "#" http://nickysuper.com
 baseurl: " "         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
